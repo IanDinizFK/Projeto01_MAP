@@ -1,7 +1,7 @@
 # Projeto01_MAP
 Este é o projeto da disciplina que visa implementar em uma estrutura básica de biblioteca, padrões GRAPS.
 
-✔✔Padrões GRAPS: Principio Aberto/Fechado (OCP) e Liskov Substitution Principle (LSP) - Principio da substituição de Liskov \n
+✔✔Padrões GRAPS: Principio Aberto/Fechado (OCP) e Liskov Substitution Principle (LSP) - \n Principio da substituição de Liskov
 ❓❓Arquivo Livro e Decorator Descricao
 ❗❗Padrão decorator foi adicionado em conjunto aqui.
 
