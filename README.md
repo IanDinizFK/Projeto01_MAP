@@ -55,3 +55,6 @@ public class BibliotecaFacade {
     }
 }
 ```
+# Autores
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/51161747?v=4" width=115><br><sub>Ian Diniz</sub>](https://github.com/IanDinizFK) |
+| :---: |
